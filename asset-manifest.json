@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/LebedevMar9n/gym_app/static/css/main.20acbc28.css",
-    "main.js": "/LebedevMar9n/gym_app/static/js/main.515eef1c.js",
-    "static/media/banner.png": "/LebedevMar9n/gym_app/static/media/banner.5209b5e92a864ca0c615.png",
-    "static/media/gym.png": "/LebedevMar9n/gym_app/static/media/gym.6e701417c428e2fbc267.png",
-    "index.html": "/LebedevMar9n/gym_app/index.html",
-    "main.20acbc28.css.map": "/LebedevMar9n/gym_app/static/css/main.20acbc28.css.map",
-    "main.515eef1c.js.map": "/LebedevMar9n/gym_app/static/js/main.515eef1c.js.map"
+    "main.css": "/gym_app/static/css/main.20acbc28.css",
+    "main.js": "/gym_app/static/js/main.6e8c4a46.js",
+    "static/media/banner.png": "/gym_app/static/media/banner.5209b5e92a864ca0c615.png",
+    "static/media/gym.png": "/gym_app/static/media/gym.6e701417c428e2fbc267.png",
+    "index.html": "/gym_app/index.html",
+    "main.20acbc28.css.map": "/gym_app/static/css/main.20acbc28.css.map",
+    "main.6e8c4a46.js.map": "/gym_app/static/js/main.6e8c4a46.js.map"
   },
   "entrypoints": [
     "static/css/main.20acbc28.css",
-    "static/js/main.515eef1c.js"
+    "static/js/main.6e8c4a46.js"
   ]
 }
