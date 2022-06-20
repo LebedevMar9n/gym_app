@@ -13,7 +13,6 @@ function App() {
       <Routes>
         <Route path='/' element={<Home />} />
         <Route path='/exercise/:id' element={<ExerciseDetail />} />
-        <Route path='https://lebedevmar9n.github.io/gym_app/' element={<Home />} />
       </Routes>
       <Footer />
     </Box>
